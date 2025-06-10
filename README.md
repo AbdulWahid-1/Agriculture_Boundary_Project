@@ -101,3 +101,4 @@ Run the AI on a fresh image to draw the green boundaries: python inference.py
 
 **Step 7: Grade it**
 Score the model, fix the brightness glitch, and output the graph: python evaluate.py
+
